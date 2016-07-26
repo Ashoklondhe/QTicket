@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0359FD5653ADDF54ECE4DB4D1FE71CA89F922F23",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "19606A580E6E085B6F67C47119B3CD9604DF025D" : 0,
+    "0359FD5653ADDF54ECE4DB4D1FE71CA89F922F23" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7B1D5198-5AC0-4021-B02F-17FF385F2E6D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "19606A580E6E085B6F67C47119B3CD9604DF025D" : "",
+    "0359FD5653ADDF54ECE4DB4D1FE71CA89F922F23" : "Q-tickets\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Q-tickets",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Q-tickets.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.com:ProMediaCamp\/QTicket.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0359FD5653ADDF54ECE4DB4D1FE71CA89F922F23"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.com:ProMediaCamp\/QTicket.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "19606A580E6E085B6F67C47119B3CD9604DF025D"
+    }
+  ]
+}
